@@ -12,7 +12,7 @@
 _Create a GitHub Action and use it in a workflow._
 
 </header>
-🤯
+🤯 Try again
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
